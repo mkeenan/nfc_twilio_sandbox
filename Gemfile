@@ -6,6 +6,7 @@ gem 'twilio-ruby'
 gem 'figaro'
 gem 'mongoid', github: 'mongoid/mongoid'
 gem 'genghis', '~> 1.4.1'
+gem 'rails_12factor'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
